@@ -1,2 +1,1 @@
-Not empty
-pwd
+Description: This repository is for bash projects.
